@@ -1,1 +1,2 @@
-This repo is a demonstration of using Git with RStudio.  
+This repo is a demonstration of using Git with RStudio. 
+hello
